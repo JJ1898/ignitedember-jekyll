@@ -1,2 +1,6 @@
-#ignore jekyll build files
-/_site
+#ignore jekyll build and cache files
+
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
